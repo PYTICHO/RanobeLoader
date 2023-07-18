@@ -112,8 +112,8 @@ def main():
 
     #Data
     user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-    login = "kasaev_2006@inbox.ru"
-    password = "Qwertyqwerty2006"
+    login = "login"
+    password = "password"
 
     #session
     session = get_session(login, password, user_agent)
